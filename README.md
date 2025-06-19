@@ -24,7 +24,3 @@ The system simulates an automated sorting line where boxes are sorted by size us
 3. Establish the connection between Factory I/O and CODESYS (via Modbus TCP/IP protocol).
 4. Run the simulation and control system.
 
-## Author
-
-Nedim Šabić  
-2024
